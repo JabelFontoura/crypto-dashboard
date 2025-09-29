@@ -12,9 +12,6 @@ A full-stack application that displays live exchange rates for ETH/USDC, ETH/USD
 ### 1. One-Command Setup
 
 ```bash
-# Clone the repository (if not already done)
-git clone <repository-url>
-cd crypto-dasbhoard
 
 # Setup and run the entire application
 docker-compose up
